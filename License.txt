@@ -9,7 +9,7 @@ Licence URI: http://www.themevault.net/license/
 */
 
 
-TERMS OF USE
+TERMS OF USE 
 -----------------------------------------------------------------------------------------------------------------------
 
 You should carefully read our terms and conditions. Your purchase or use of ThemeVault products implies that you have read and accepted all the terms and conditions.
@@ -52,3 +52,4 @@ NOTE: If you are to using our templates to design websites for your commercial c
 
 All our template(s) and digital work(s) have been Copyrighted. If you misuse or distribute our digital works without prior written consent from us, we will seek damages and you will be prosecuted.
 
+This is this
