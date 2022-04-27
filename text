@@ -1,0 +1,33 @@
+
+  <div class="row">
+                                
+                                 
+                                 <div class="col-md-2" style="margin-left: -95px">
+                                    <img src="images/SopanamLogo.jpg" height= 20px class="img-responsive">
+                                 </div>
+                                 <div class="col-md-7">
+                                    <a class="navbar-brand" href="home.html">Sopanam Kuchipudi Academy</a>
+                                 </div>
+                                
+                               
+                        </div>
+
+
+
+                          <div class="row">
+                            <div class="col-md-3">ssss</div>
+                               
+                             
+                          
+                            <div class="col-md-9 collapse navbar-collapse" id="myNavbar">
+                               <ul class="nav navbar-nav navbar-right">
+                                   <li><a href="#myPage">Welcome</a></li>                               
+                                   <li><a href="#about">About Us</a></li>
+                                   <li><a href="#classes">Classes</a></li>
+                                 <!--   <li><a href="#plan">plans</a></li> -->
+                                   <li><a href="#instructors">Instructors</a></li>
+                                   <li><a href="#gallery">Gallery</a></li> 
+                                   <li><a href="#testimonial">Testimonial</a></li> 
+                                   <li><a href="#contact">Contact Us</a></li>
+                               </ul>
+                           </div>
